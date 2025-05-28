@@ -20,7 +20,8 @@ Hey, my name is Manny Tovar. I love watching and playing sports, especially socc
 I am a sophomore studying Business Analytics and Management Information Systems at DePaul University 
 ## Technical Skills/Languages
 R, HTML, CSS, JavaScript
-
+### Currently Learning Technical Skills
+SQL, Python
 # LinkedIn
 https://www.linkedin.com/in/manuel-tovar-17084b2aa/
 
